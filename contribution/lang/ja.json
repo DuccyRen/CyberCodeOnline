@@ -66,7 +66,7 @@
  	 	 	 	"eng": "Shangri-La City center"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[セントラルハブ] \r\n         大陸で最も賑わう都市の1つ。ここには世界中の人々が集まる。",
+ 	 	 	 	"trans": "[セントラルハブ] \r\n         大陸で最も賑わう都市の1つ。ここには世界中の人々が集まります。",
  	 	 	 	"eng": "[Central Hub]\r\n        One of the busiest cities in the continent. Here you can find all sorts of people from around the globe."
  	 	 	},
  	 	 	"toStation": {
@@ -116,7 +116,7 @@
  	 	 	 	"eng": "Shangri-La Commercial Area"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[ジョブハブ] \r\n         スキルを試すのに最適な店や仕事がここに。",
+ 	 	 	 	"trans": "[ジョブハブ] \r\n         スキルを試すのに最適な店や仕事がここにあります。",
  	 	 	 	"eng": "[Job Hub]\r\n        Here are many shops and businesses reside. The perfect location to hone and refine your skills."
  	 	 	},
  	 	 	"toMainHub": {
@@ -256,7 +256,7 @@
  	 	 	 	"eng": "[Gang]\r\n        The headquarters for you and your gang members to plan and execute your next operation"
  	 	 	},
  	 	 	"cantEnterError": {
- 	 	 	 	"trans": "このエリアに入るにはゲインに参加する必要があります",
+ 	 	 	 	"trans": "このエリアに入るにはギャングに参加する必要があります",
  	 	 	 	"eng": "You need to join a gang to enter this area"
  	 	 	}
  	 	}
@@ -462,7 +462,7 @@
  	 	},
  	 	"clanResource": {
  	 	 	"name": {
- 	 	 	 	"trans": "クランリソースを集める",
+ 	 	 	 	"trans": "ギャングリソースを集める",
  	 	 	 	"eng": "Gather Gang Resource"
  	 	 	},
  	 	 	"description": {
@@ -492,11 +492,11 @@
  	 	},
  	 	"gambling1": {
  	 	 	"name": {
- 	 	 	 	"trans": "MEGAパチンコゲーム",
+ 	 	 	 	"trans": "MEGAパチンコゲームを遊ぶ",
  	 	 	 	"eng": "Play MEGA Pachinko Game"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "こんにちは!! ^___^\r\n        MEGAパチンコで遊ぼう! 抽選で豪華賞品が当たるチャンス！\r\n        1回のプレイで10000Btcのみ、期間限定のキャンペーン！<3<3<3\r\n        ##このイベントのスポンサーであるMilitechに感謝します##",
+ 	 	 	 	"trans": "こんにちは!! ^___^\r\n        MEGAパチンコで遊ぼう! 抽選で豪華賞品が当たるチャンスがあるよ！\r\n        1回のプレイで5000btcのみ、期間限定のキャンペーン！<3<3<3\r\n        ##このイベントのスポンサーであるMilitechに感謝します##",
  	 	 	 	"eng": "Konnichiwa!! ^___^\r\n        Come play the MEGA Pachinko! With chance to win HUGE EPIC rewards\r\n        only 5000 btc per session, LIMITED TIME OFFER!!! <3<3<3\r\n        ##Special thanks for Militech for sponsoring this event##"
  	 	 	}
  	 	},
